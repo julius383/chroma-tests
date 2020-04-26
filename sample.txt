@@ -1,0 +1,299 @@
+----------------------------------------------------------------------
+Current:          17 Gang Starr - The Ownerz
+**********************************************************************
+Random Reference: 01 Gang Starr - Lovesick (Upbeat Mix)
+----------------------------------------------------------------------
+Fingerprint comparison completed in 0.00197687s
+Sample starting 24s to 42s
+Distance to candidate 0.00
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00125059s
+Sample starting 60s to 71s
+Distance to candidate 54458973.60
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00157238s
+Sample starting 51s to 65s
+Distance to candidate 37615453.81
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00168976s
+Sample starting 2s to 17s
+Distance to candidate 469315045.15
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00209814s
+Sample starting 47s to 66s
+Distance to candidate 445149415.41
+Distance to reference inf
+
+----------------------------------------------------------------------
+Current:          03. Turnmills
+**********************************************************************
+Random Reference: 01 Gang Starr - Lovesick (Upbeat Mix)
+----------------------------------------------------------------------
+Fingerprint comparison completed in 0.00103541s
+Sample starting 38s to 47s
+Distance to candidate 217831039.11
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00129498s
+Sample starting 30s to 42s
+Distance to candidate 200470624.70
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00215952s
+Sample starting 43s to 63s
+Distance to candidate 882735987.97
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00149797s
+Sample starting 12s to 26s
+Distance to candidate 857883819.78
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00072388s
+Sample starting 35s to 41s
+Distance to candidate 0.00
+Distance to reference inf
+
+----------------------------------------------------------------------
+Current:          09 She's Mine, Pt. 2
+**********************************************************************
+Random Reference: 01 Gang Starr - Lovesick (Upbeat Mix)
+----------------------------------------------------------------------
+Fingerprint comparison completed in 0.00196168s
+Sample starting 31s to 49s
+Distance to candidate 685841918.63
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00163657s
+Sample starting 28s to 43s
+Distance to candidate 718238451.22
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00202687s
+Sample starting 47s to 65s
+Distance to candidate 380545571.75
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00083967s
+Sample starting 50s to 57s
+Distance to candidate 243018907.56
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00113937s
+Sample starting 50s to 60s
+Distance to candidate 300358282.67
+Distance to reference inf
+
+----------------------------------------------------------------------
+Current:          07 - Good Kid
+**********************************************************************
+Random Reference: 01 Gang Starr - Lovesick (Upbeat Mix)
+----------------------------------------------------------------------
+Fingerprint comparison completed in 0.00174632s
+Sample starting 45s to 61s
+Distance to candidate 0.00
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00202198s
+Sample starting 60s to 78s
+Distance to candidate 98027688.66
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00083148s
+Sample starting 41s to 48s
+Distance to candidate 0.00
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00073901s
+Sample starting 21s to 27s
+Distance to candidate 0.00
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00095388s
+Sample starting 1s to 9s
+Distance to candidate 0.00
+Distance to reference inf
+
+----------------------------------------------------------------------
+Current:          05. Headstone
+**********************************************************************
+Random Reference: 01 Gang Starr - Lovesick (Upbeat Mix)
+----------------------------------------------------------------------
+Fingerprint comparison completed in 0.00180759s
+Sample starting 11s to 28s
+Distance to candidate 974440407.94
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00181721s
+Sample starting 18s to 35s
+Distance to candidate 1813030703.22
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00090317s
+Sample starting 20s to 28s
+Distance to candidate 635684957.71
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00071390s
+Sample starting 44s to 50s
+Distance to candidate 535801339.50
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00073772s
+Sample starting 4s to 10s
+Distance to candidate 0.00
+Distance to reference inf
+
+----------------------------------------------------------------------
+Current:          10 Gang Starr - Who Got Gunz (feat. Fat Joe & MOP)
+**********************************************************************
+Random Reference: 01 Gang Starr - Lovesick (Upbeat Mix)
+----------------------------------------------------------------------
+Fingerprint comparison completed in 0.00153869s
+Sample starting 13s to 28s
+Distance to candidate 0.00
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00147131s
+Sample starting 29s to 43s
+Distance to candidate 0.00
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00140348s
+Sample starting 32s to 45s
+Distance to candidate 0.00
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00116510s
+Sample starting 51s to 62s
+Distance to candidate 133980549.26
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00154589s
+Sample starting 46s to 61s
+Distance to candidate 13618802.50
+Distance to reference inf
+
+----------------------------------------------------------------------
+Current:          02 Immortal
+**********************************************************************
+Random Reference: 01 Gang Starr - Lovesick (Upbeat Mix)
+----------------------------------------------------------------------
+Fingerprint comparison completed in 0.00126280s
+Sample starting 6s to 18s
+Distance to candidate 0.00
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00201201s
+Sample starting 7s to 26s
+Distance to candidate 0.00
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00101082s
+Sample starting 33s to 42s
+Distance to candidate 12761337.80
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00087542s
+Sample starting 8s to 16s
+Distance to candidate 0.00
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00146571s
+Sample starting 28s to 41s
+Distance to candidate 0.00
+Distance to reference inf
+
+----------------------------------------------------------------------
+Current:          13. Wedding Tux
+**********************************************************************
+Random Reference: 01 Gang Starr - Lovesick (Upbeat Mix)
+----------------------------------------------------------------------
+Fingerprint comparison completed in 0.00127282s
+Sample starting 36s to 48s
+Distance to candidate 0.00
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00085522s
+Sample starting 41s to 48s
+Distance to candidate 0.00
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00179291s
+Sample starting 11s to 28s
+Distance to candidate 0.00
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00200381s
+Sample starting 7s to 26s
+Distance to candidate 9132055.00
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00073419s
+Sample starting 10s to 16s
+Distance to candidate 0.00
+Distance to reference inf
+
+----------------------------------------------------------------------
+Current:          01 Gang Starr - Lovesick (Upbeat Mix)
+**********************************************************************
+Random Reference: 01 Gang Starr - Lovesick (Upbeat Mix)
+----------------------------------------------------------------------
+Fingerprint comparison completed in 0.00154204s
+Sample starting 31s to 45s
+Distance to candidate 466624512.85
+Distance to reference 466624512.85
+
+Fingerprint comparison completed in 0.00062400s
+Sample starting 7s to 12s
+Distance to candidate 0.00
+Distance to reference 0.00
+
+Fingerprint comparison completed in 0.00206668s
+Sample starting 14s to 33s
+Distance to candidate 115701287.39
+Distance to reference 115701287.39
+
+Fingerprint comparison completed in 0.00155738s
+Sample starting 21s to 35s
+Distance to candidate 188643899.33
+Distance to reference 188643899.33
+
+Fingerprint comparison completed in 0.00074363s
+Sample starting 5s to 11s
+Distance to candidate 0.00
+Distance to reference 0.00
+
+----------------------------------------------------------------------
+Current:          14 Gang Starr - In This Life...
+**********************************************************************
+Random Reference: 01 Gang Starr - Lovesick (Upbeat Mix)
+----------------------------------------------------------------------
+Fingerprint comparison completed in 0.00112724s
+Sample starting 23s to 31s
+Distance to candidate 407426949.39
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00179049s
+Sample starting 59s to 75s
+Distance to candidate 820195209.47
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00066722s
+Sample starting 28s to 33s
+Distance to candidate 0.00
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00131210s
+Sample starting 60s to 71s
+Distance to candidate 847200035.32
+Distance to reference inf
+
+Fingerprint comparison completed in 0.00095209s
+Sample starting 53s to 60s
+Distance to candidate 0.00
+Distance to reference inf
